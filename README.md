@@ -22,9 +22,9 @@
   A video demostrating usage can be located here:
   
   ## Credits
-  Project includes dependencies from node.js: axios, inquirer.
-  Assistance from W3Schools.
-  Screencastify utilized for video components.
+  * Project includes dependencies from node.js: axios, inquirer, fs.
+  * Assistance from W3Schools.
+  * Screencastify utilized for video components.
   
   
   ## License
