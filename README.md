@@ -1,10 +1,10 @@
 # easy-readme
 
   ## Description 
-  This project is a command-line application that dynamically generates a README file. This application with reduce the time necessary for developers to create a good README and containts everything needed for a professional README file.
   
-  ## Table of Contents (Optional)
+This project creates a readme dynamically in the command line.
   
+  ## Table of Contents
   
   * [Installation](#installation)
   * [Usage](#usage)
@@ -13,18 +13,19 @@
   
   
   ## Installation
+  THe following dependencies are required: 
   
+fs, inquire, axios
   
   
   ## Usage 
-  This is a command-line application.  The user is presented with prompted questions for each section of the README file.  The user enters their information for each section.  On answering all sections, the application will generate a README.md file that contains the users input under the relevant headings. 
   
-  A video demostrating usage can be located here:
+ This application is used to complete a readme in the command line.  The is prompted to enter information, and this is displayed under the corresponding heading in a README.md file.
+  
   
   ## Credits
-  * Project includes dependencies from node.js: axios, inquirer, fs.
-  * Assistance from W3Schools.
-  * Screencastify utilized for video components.
+  
+node.js: fs, axios, inquire.  W3Schools
   
   
   ## License
@@ -34,14 +35,16 @@
   
   ## Badges
   
-  [![GitHub last comm(https://img.shields.io/github/last-commit/google/skia.svg?style=flat)]()
+  [![GitHub last comm](https://img.shields.io/github/last-commit/google/skia.svg?style=flat)]()
   
   ## Contributing
+  none
   
   ## Tests
-
-  
+none
   
 ## Questions
-https://github.com/SueBee21
-beno.susan@gmail.com
+* For any additional questions, I can be reached through Git Hub: 
+https://github.com/SueBee21 
+ or via email: 
+me@test.co
