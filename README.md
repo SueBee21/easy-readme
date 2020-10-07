@@ -1,10 +1,10 @@
 # easy-readme
 
   ## Description 
+  This project is a command-line application that dynamically generates a README file. This application with reduce the time necessary for developers to create a good README and containts everything needed for a professional README file.
   
-This project creates a readme dynamically in the command line.
+  ## Table of Contents (Optional)
   
-  ## Table of Contents
   
   * [Installation](#installation)
   * [Usage](#usage)
@@ -13,19 +13,19 @@ This project creates a readme dynamically in the command line.
   
   
   ## Installation
-  THe following dependencies are required: 
-  
-fs, inquire, axios
-  
+  * inquirer
+  * js
+  *  axios
   
   ## Usage 
+  This is a command-line application.  The user is presented with prompted questions for each section of the README file.  The user enters their information for each section.  On answering all sections, the application will generate a README.md file that contains the users input under the relevant headings. 
   
- This application is used to complete a readme in the command line.  The is prompted to enter information, and this is displayed under the corresponding heading in a README.md file.
-  
+  A video demostrating usage can be located here:
   
   ## Credits
-  
-node.js: fs, axios, inquire.  W3Schools
+  * Project includes dependencies from node.js: axios, inquirer, fs.
+  * Assistance from W3Schools.
+  * Screencastify utilized for video components.
   
   
   ## License
@@ -35,16 +35,22 @@ node.js: fs, axios, inquire.  W3Schools
   
   ## Badges
   
-  [![GitHub last comm](https://img.shields.io/github/last-commit/google/skia.svg?style=flat)]()
+  [![GitHub last comm(https://img.shields.io/github/last-commit/google/skia.svg?style=flat)]()
   
-  ## Contributing
-  none
   
   ## Tests
-none
+
+* Test Demo video located here:
+https://drive.google.com/file/d/1_QspANZKVu0qEB4kGAKh8EZfU5iSBtKV/view
+
+* Screenshot of Application:
+<img width="1792" alt="easy-readme-index" src="https://user-images.githubusercontent.com/68358265/95273985-90ff0e00-0812-11eb-950b-54d2b8edcd66.png">
+
+* Screenshot of generated test README file:
+<img width="1792" alt="easy-readme-generated-file" src="https://user-images.githubusercontent.com/68358265/95273968-83e21f00-0812-11eb-9b00-245ea8d96464.png">
+
   
 ## Questions
-* For any additional questions, I can be reached through Git Hub: 
-https://github.com/SueBee21 
- or via email: 
-me@test.co
+If you have additional questions, I can be reached through the following:
+* https://github.com/SueBee21
+* beno.susan@gmail.com

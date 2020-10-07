@@ -80,7 +80,7 @@ inquirer.prompt(questions).then(function(data){
     axios.get("https://api.github.com/users/" + data.githubUsername).then(function(response){
         data.githubProfile=response.data.html_url
         const content=generateMarkdown(data)
-        writeToFile("README.md", content)
+        writeToFile("./test/README.md", content)
     })
 })
 }
