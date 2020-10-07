@@ -1,8 +1,7 @@
 # easy readme
 
   ## Description 
-  
-application to generate a readme file
+  This application will generate a readme file dynamically.
   
   ## Table of Contents
   
@@ -13,14 +12,14 @@ application to generate a readme file
   
   
   ## Installation
-  THe following dependencies are required: 
+  The following dependencies are required: 
   
-inquirer, fs, anxios
+inquirer, fs, axios
   
   
   ## Usage 
   
- genrate a readme dynamically
+ Generates a readme dynamically
   
   
   ## Credits
@@ -47,4 +46,4 @@ n/a
 * For any additional questions, I can be reached through Git Hub: 
 https://github.com/SueBee21 
  or via email: 
-beno.susan@gmail
+beno.susan@gmail.com
