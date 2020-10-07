@@ -35,7 +35,7 @@
   
   ## Badges
   
-  [![GitHub last comm(https://img.shields.io/github/last-commit/google/skia.svg?style=flat)]()
+  [![GitHub last comm](https://img.shields.io/github/last-commit/google/skia.svg?style=flat)]()
   
   
   ## Tests
