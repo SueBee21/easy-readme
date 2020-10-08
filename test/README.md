@@ -1,7 +1,8 @@
-# easy readme
+# Sample Readme
 
   ## Description 
-  This application will generate a readme file dynamically.
+  
+This is where the description of the project would be entered.
   
   ## Table of Contents
   
@@ -12,29 +13,29 @@
   
   
   ## Installation
-  The following dependencies are required: 
+  THe following dependencies are required: 
   
-inquirer, fs, axios
+node dependencies: fs, inquirer, axios
   
   
   ## Usage 
   
- Generates a readme dynamically
+ This is where information on development and use of the application would be entered.
   
   
   ## Credits
   
-node.js
+Node
   
   
   ## License
   
- [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+ [![License: IPL 1.0](https://img.shields.io/badge/License-IPL%201.0-blue.svg)](https://opensource.org/licenses/IPL-1.0)
 
   
   ## Badges
   
-  [![GitHub last comm](https://img.shields.io/github/last-commit/google/skia.svg?style=flat)]()
+  [![GitHub pull requests](https://img.shields.io/github/issues-pr/cdnjs/cdnjs.svg?style=flat)]()
   
   ## Contributing
   n/a

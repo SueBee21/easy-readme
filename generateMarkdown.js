@@ -37,7 +37,7 @@ ${data.credits}
   
   ## Badges
   
-  ${data.badge==="Last Commit"?"[![GitHub last comm](https://img.shields.io/github/last-commit/google/skia.svg?style=flat)]()":date.badge==="Pull Request"?"[![GitHub pull requests](https://img.shields.io/github/issues-pr/cdnjs/cdnjs.svg?style=flat)]()":"[![Issues](https://img.shields.io/github/issues-raw/tterb/PlayMusic.svg?maxAge=25000)](https://github.com/tterb/Hyde/issues)"}
+  ${data.badge==="Last Commit"?"[![GitHub last comm](https://img.shields.io/github/last-commit/google/skia.svg?style=flat)]()":data.badge==="Pull Request"?"[![GitHub pull requests](https://img.shields.io/github/issues-pr/cdnjs/cdnjs.svg?style=flat)]()":"[![Issues](https://img.shields.io/github/issues-raw/tterb/PlayMusic.svg?maxAge=25000)](https://github.com/tterb/Hyde/issues)"}
   
   ## Contributing
   ${data.contributing}
